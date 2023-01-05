@@ -16,11 +16,11 @@
 
 <h3 align="left"> 🛠 Skills:</h3>
 
-- Programming Languages: ![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logocolor=3776AB)
+- Programming Languages: ![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logocolor=3776AB) ![c++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++&logocolor=00599C)
  
-- Frontend Development: ![](https://cdn.simpleicons.org/qt/#41CD52)
+- Frontend Development: ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=c++&logocolor=41CD52)
 
-- AI/ML: ![](https://cdn.simpleicons.org/pytorch/#EE4C2C) ![](https://cdn.simpleicons.org/opencv/#5C3EE8)
+- AI/ML: ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logocolor=EE4C2C) ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=c++&logocolor=5C3EE8)
 
 ### :calendar: Todo List
 
