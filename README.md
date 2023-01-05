@@ -27,6 +27,8 @@
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
+<!--START_SECTION:activity-->
+
 <!--
 **K0145vin/K0145vin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
