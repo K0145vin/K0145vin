@@ -15,11 +15,12 @@
 - ⚡ Fun fact **I think I am funny...?**
 
 <h3 align="left"> 🛠 Skills:</h3>
-- Programming Languages: ![python](https://img.shields.io/badge/Python?style=flat&logo=python&logocolor=3776AB)
-- Frontend Development: ![](https://cdn.simpleicons.org/qt/#41CD52)
-- AI/ML: ![](https://cdn.simpleicons.org/pytorch/#EE4C2C) ![](https://cdn.simpleicons.org/opencv/#5C3EE8)
 
-![](https://cdn.worldvectorlogo.com/logos/c.svg)
+- Programming Languages: ![python](https://img.shields.io/badge/Python?style=flat&logo=python&logocolor=3776AB)
+ 
+- Frontend Development: ![](https://cdn.simpleicons.org/qt/#41CD52)
+
+- AI/ML: ![](https://cdn.simpleicons.org/pytorch/#EE4C2C) ![](https://cdn.simpleicons.org/opencv/#5C3EE8)
 
 ### :calendar: Todo List
 
