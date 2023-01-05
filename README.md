@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm K0145vin</h1>
 
-[](https://github.com/K0145vin/K0145vin/blob/main/header.png)
+![](https://github.com/K0145vin/K0145vin/blob/main/header.png)
 
 <h3 align="left">A master student from China</h3>
 
