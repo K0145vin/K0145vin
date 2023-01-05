@@ -1,6 +1,6 @@
 ![](https://github.com/K0145vin/K0145vin/blob/main/header.png)
 
-### :mortar_board: About Me
+## :mortar_board: About Me
 
 - 🔭 I’m currently studying at **Northwestern Polytechnical University**
 
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think I am funny...?**
 
-<h3 align="left"> 🛠 Skills:</h3>
+<h2 align="left"> 🛠 Skills:</h3>
 
 - Programming Languages: ![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB) ![c++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
  
@@ -22,12 +22,12 @@
 
 - AI/ML: ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=EE4C2C) ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv&logoColor=5C3EE8)
 
-### :calendar: Todo List
+## :calendar: Todo List
 
 - [ ] dive into deep learning
 - [ ] cs231n
 
-### :clapper: Recent Activity
+## :clapper: Recent Activity
 <!--START_SECTION:activity-->
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&center=true&vCenter=true&width=270&lines=Think+twice%2C+code+once" alt="Typing SVG" /></a></div>
