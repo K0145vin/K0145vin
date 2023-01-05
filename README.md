@@ -20,7 +20,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k0145vin&" alt="k0145vin" /></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K045vin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0145vin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
