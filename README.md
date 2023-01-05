@@ -25,7 +25,7 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=K0145vin.K0145vin&left_color=black&right_color=blue)
 
 
 <!--
