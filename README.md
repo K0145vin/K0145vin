@@ -1,6 +1,6 @@
 ![](https://github.com/K0145vin/K0145vin/blob/main/header.png)
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Think+twice%2C+code+once" alt="Typing SVG" /></a>
+<align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&center=true&vCenter=true&width=270&lines=Think+twice%2C+code+once" alt="Typing SVG" /></a>
 
 ### :mortar_board: About Me
 
@@ -18,9 +18,13 @@
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
