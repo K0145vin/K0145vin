@@ -26,6 +26,8 @@
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/#EE4C2C" />
 
 ### :calendar: Todo List
 
