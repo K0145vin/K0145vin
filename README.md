@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm K0145vin</h1>
-<h3 align="center">A master student from China</h3>
+
+()[https://github.com/K0145vin/K0145vin/blob/main/header.png]
+
+<h3 align="left">A master student from China</h3>
 
 - 🔭 I’m currently studying at **Northwestern Polytechnical University**
 
