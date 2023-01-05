@@ -1,5 +1,7 @@
 ![](https://github.com/K0145vin/K0145vin/blob/main/header.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Think+twice%2C+code+once)](https://git.io/typing-svg)
+
 ### :mortar_board: About Me
 
 - 🔭 I’m currently studying at **Northwestern Polytechnical University**
@@ -22,7 +24,7 @@
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
-### :zap: Recent Activity
+### :clapper: Recent Activity
 <!--START_SECTION:activity-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=K0145vin.K0145vin&left_color=black&right_color=blue)
