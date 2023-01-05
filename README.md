@@ -1,7 +1,5 @@
 ![](https://github.com/K0145vin/K0145vin/blob/main/header.png)
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&center=true&vCenter=true&width=270&lines=Think+twice%2C+code+once" alt="Typing SVG" /></a></div>
-
 ### :mortar_board: About Me
 
 - 🔭 I’m currently studying at **Northwestern Polytechnical University**
@@ -17,6 +15,7 @@
 - ⚡ Fun fact **I think I am funny...?**
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,6 +34,8 @@
 
 ### :clapper: Recent Activity
 <!--START_SECTION:activity-->
+
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&center=true&vCenter=true&width=270&lines=Think+twice%2C+code+once" alt="Typing SVG" /></a></div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=K0145vin.K0145vin&left_color=black&right_color=blue)
 
