@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I think I am funny...?**
 
 <h3 align="left"> 🛠 Skills:</h3>
-- Programming Languages: <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" /><img height="32" width="32" src="https://cdn.simpleicons.org/c++/#00599C" />
+- Programming Languages: ![]("https://cdn.simpleicons.org/python/#3776AB")![]("https://cdn.simpleicons.org/c++/#00599C")
 - Frontend Development: <img height="32" width="32" src="https://cdn.simpleicons.org/qt/#41CD52" />
 - AI/ML: <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/#EE4C2C" /><img height="32" width="32" src="https://cdn.simpleicons.org/opencv/#5C3EE8" />
 
