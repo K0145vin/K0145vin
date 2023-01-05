@@ -14,20 +14,10 @@
 
 - ⚡ Fun fact **I think I am funny...?**
 
-<h3 align="left"> 🛠 Languages and Tools:</h3>
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/#EE4C2C" />
+<h3 align="left"> 🛠 Skills:</h3>
+- Programming Languages: <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" /><img height="32" width="32" src="https://cdn.simpleicons.org/c++/#00599C" />
+- Frontend Development: <img height="32" width="32" src="https://cdn.simpleicons.org/qt/#41CD52" />
+- AI/ML: <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/#EE4C2C" /><img height="32" width="32" src="https://cdn.simpleicons.org/opencv/#5C3EE8" />
 
 ### :calendar: Todo List
 
