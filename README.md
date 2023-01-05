@@ -1,6 +1,6 @@
 ![](https://github.com/K0145vin/K0145vin/blob/main/header.png)
 
-<h3 align="left">A master student from China</h3>
+### :mortar_board: About Me
 
 - 🔭 I’m currently studying at **Northwestern Polytechnical University**
 
