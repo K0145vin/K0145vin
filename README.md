@@ -16,7 +16,7 @@
 
 <h3 align="left"> 🛠 Skills:</h3>
 
-- Programming Languages: ![python](https://img.shields.io/badge/Python?style=flat&logo=python&logocolor=3776AB)
+- Programming Languages: ![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logocolor=3776AB)
  
 - Frontend Development: ![](https://cdn.simpleicons.org/qt/#41CD52)
 
