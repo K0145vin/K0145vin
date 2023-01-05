@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm K0145vin</h1>
-
 ![](https://github.com/K0145vin/K0145vin/blob/main/header.png)
 
 <h3 align="left">A master student from China</h3>
@@ -18,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/一瓶ad钙" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="一瓶ad钙" height="30" width="40" /></a>
+<a href="leetcode-cn.com/u/yi-ping-adgai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="一瓶ad钙" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
