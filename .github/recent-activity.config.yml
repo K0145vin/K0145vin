@@ -3,8 +3,7 @@ settings:
   max_lines: 10
   commit_username: "workflow"
   date:
-    timezone: "GMT+08:00"
-    format: "HH:MM:ss:l mm/d/yyyy o"
+    timezone: "+08:00"
   messages:
     added_member: "🤝 Became a collaborator on {REPO}"
     create_repo: "📔 Created {REPO}"
@@ -13,3 +12,5 @@ settings:
     new_release: "✌️ Released v{ID} for {REPO}"
     pr_merged: "🎉 Merged {ID} in {REPO}"
     create_wiki: "📖 Created wiki {WIKI} in {REPO}"
+    new_star: "⭐ Starred {REPO}"
+    
