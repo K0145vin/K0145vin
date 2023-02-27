@@ -30,8 +30,8 @@
 ## :clapper: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Yue-plus/hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights)
-2. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin](https://github.com/K0145vin/K0145vin)
+1. 📔 Created new repository [K0145vin/K0145vin.github.io](https://github.com/K0145vin/K0145vin.github.io)
+2. ⭐ Starred [Yue-plus/hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights)
 3. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin](https://github.com/K0145vin/K0145vin)
 4. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin](https://github.com/K0145vin/K0145vin)
 5. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin](https://github.com/K0145vin/K0145vin)
@@ -43,7 +43,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 27th, 2023, 2:19:20 PM
+Last Updated: Monday, February 27th, 2023, 2:41:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&center=true&vCenter=true&width=270&lines=Think+twice%2C+code+once" alt="Typing SVG" /></a></div>
