@@ -30,20 +30,20 @@
 ## :clapper: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin.github.io](https://github.com/K0145vin/K0145vin.github.io)
+1. ⭐ Starred [pengsida/learning_research](https://github.com/pengsida/learning_research)
 2. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin.github.io](https://github.com/K0145vin/K0145vin.github.io)
 3. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin.github.io](https://github.com/K0145vin/K0145vin.github.io)
 4. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin.github.io](https://github.com/K0145vin/K0145vin.github.io)
 5. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin.github.io](https://github.com/K0145vin/K0145vin.github.io)
 6. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin.github.io](https://github.com/K0145vin/K0145vin.github.io)
 7. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin.github.io](https://github.com/K0145vin/K0145vin.github.io)
-8. ✔️ Closed issue [#13](https://github.com/taoyang1122/adapt-image-models/issues/13) in [taoyang1122/adapt-image-models](https://github.com/taoyang1122/adapt-image-models)
-9. 💬 Commented on [#13](https://github.com/taoyang1122/adapt-image-models/issues/13#issuecomment-1499887404) in [taoyang1122/adapt-image-models](https://github.com/taoyang1122/adapt-image-models)
-10. ⭐ Starred [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+8. ⬆️ Pushed 1 commit(s) to [K0145vin/K0145vin.github.io](https://github.com/K0145vin/K0145vin.github.io)
+9. ✔️ Closed issue [#13](https://github.com/taoyang1122/adapt-image-models/issues/13) in [taoyang1122/adapt-image-models](https://github.com/taoyang1122/adapt-image-models)
+10. 💬 Commented on [#13](https://github.com/taoyang1122/adapt-image-models/issues/13#issuecomment-1499887404) in [taoyang1122/adapt-image-models](https://github.com/taoyang1122/adapt-image-models)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 14th, 2023, 5:35:19 PM
+Last Updated: Sunday, May 14th, 2023, 6:12:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&center=true&vCenter=true&width=270&lines=Think+twice%2C+code+once" alt="Typing SVG" /></a></div>
