@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at **Northwestern Polytechnical University**
 
-- 🌱 I’m currently learning **d2l、PyTorch**
+- 🌱 I’m currently learning ...
 
 - 📝 I regularly write articles on [k0145vin.xyz](k0145vin.xyz)
 
@@ -24,8 +24,7 @@
 
 ## :calendar: Todo List
 
-- [ ] dive into deep learning
-- [ ] cs231n
+- [ ] learn stable diffusion
 
 ## :clapper: Recent Activity
 
